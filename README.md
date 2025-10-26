@@ -37,4 +37,4 @@ pip install -r requirements.txt
 
 3. Run the project
 python run.py
-link - http://127.0.0.1:8000/index.html
+Local host  - Link - http://127.0.0.1:8000/index.html
